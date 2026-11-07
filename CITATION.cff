@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use these notes, please cite them as below."
+title: "An Introduction to Applied Probability and Stochastic Processes: Open Lecture Notes"
+authors:
+  - family-names: Lorig
+    given-names: Matthew
+    orcid: "https://orcid.org/0000-0001-5307-3447"
+    affiliation: "University of Washington"
+version: "1.70"
+date-released: 2026-11-07
+doi: 10.5281/zenodo.24043489
+license: CC-BY-SA-4.0
+repository-code: "https://github.com/mattlorig/intro-probability-stochastic-processes"
+preferred-citation:
+  type: generic
+  title: "An Introduction to Applied Probability and Stochastic Processes: Open Lecture Notes"
+  authors:
+    - family-names: Lorig
+      given-names: Matthew
+      orcid: "https://orcid.org/0000-0001-5307-3447"
+  year: 2026
+  doi: 10.5281/zenodo.24043489
+  url: "https://doi.org/10.5281/zenodo.24043489"
