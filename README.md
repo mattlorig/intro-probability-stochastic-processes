@@ -44,15 +44,20 @@ Corrections, improvements and new material are welcome. Please open an [issue](h
 
 ## How to cite
 
-An arXiv identifier and DOI will be added here shortly. In the meantime, please cite as:
+Please cite these notes using the Zenodo DOI, which always resolves to the latest version:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24043489.svg)](https://doi.org/10.5281/zenodo.24043489)
 
     @misc{lorig-probability-notes,
       author       = {Lorig, Matthew},
       title        = {An Introduction to Applied Probability and Stochastic Processes: Open Lecture Notes},
       year         = {2026},
-      howpublished = {\url{https://github.com/mattlorig/intro-probability-stochastic-processes}},
-      note         = {Version 1.70}
+      publisher    = {Zenodo},
+      doi          = {10.5281/zenodo.24043489},
+      url          = {https://doi.org/10.5281/zenodo.24043489}
     }
+
+An arXiv version will be added here once it is announced.
 
 ## License
 
