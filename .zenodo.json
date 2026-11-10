@@ -1,0 +1,33 @@
+{
+  "upload_type": "lesson",
+  "title": "An Introduction to Applied Probability and Stochastic Processes: Open Lecture Notes",
+  "creators": [
+    {
+      "name": "Lorig, Matthew",
+      "affiliation": "University of Washington",
+      "orcid": "0000-0001-5307-3447"
+    }
+  ],
+  "description": "<p>Open, forkable lecture notes giving a broad introduction to measure-theoretic probability and stochastic processes, with a focus on applications. Topics include probability spaces, conditional expectation, generating and characteristic functions, Markov chains in discrete and continuous time, convergence of random variables, Brownian motion, stochastic calculus, stochastic differential equations and their connection to partial differential equations, jump diffusions, stochastic control, optimal stopping, and Monte Carlo methods. Most chapters include exercises, and solutions are provided.</p>",
+  "notes": "The compiled PDF is available from the GitHub release and on arXiv (arXiv:2611.10948).",
+  "keywords": [
+    "probability",
+    "stochastic processes",
+    "Markov chains",
+    "Brownian motion",
+    "stochastic calculus",
+    "stochastic differential equations",
+    "jump diffusions",
+    "stochastic control",
+    "lecture notes"
+  ],
+  "license": "cc-by-sa-4.0",
+  "related_identifiers": [
+    {
+      "identifier": "10.48550/arXiv.2611.10948",
+      "relation": "isIdenticalTo",
+      "scheme": "doi",
+      "resource_type": "publication-preprint"
+    }
+  ]
+}
