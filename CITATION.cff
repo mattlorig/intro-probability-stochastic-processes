@@ -6,9 +6,19 @@ authors:
     given-names: Matthew
     orcid: "https://orcid.org/0000-0001-5307-3447"
     affiliation: "University of Washington"
-version: "1.70"
-date-released: 2026-11-07
+version: "1.71"
+date-released: 2026-11-10
 doi: 10.5281/zenodo.24043489
+identifiers:
+   - type: doi
+     value: 10.5281/zenodo.24043489
+     description: "Zenodo concept DOI (all versions)"
+   - type: url
+     value: "https://arxiv.org/abs/2611.10948"
+     description: "arXiv version"
+   - type: doi
+     value: 10.48550/arXiv.2611.10948
+     description: "arXiv DOI"
 license: CC-BY-SA-4.0
 repository-code: "https://github.com/mattlorig/intro-probability-stochastic-processes"
 preferred-citation:
