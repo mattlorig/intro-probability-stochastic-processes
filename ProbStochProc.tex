@@ -289,7 +289,7 @@
 \frontmatter
 \title{An Introduction to Applied Probability and Stochastic Processes\\[0.5em] \large Open Lecture Notes}
 \author{Matthew Lorig \thanks{Department of Applied Mathematics, University of Washington, Seattle, WA, USA.  \textbf{e-mail}: \url{mlorig@uw.edu}}}
-\date{Version 1.70 (November 2026)}
+\date{Version 1.71 (November 2026)}
 \maketitle
 \tableofcontents
 \chapter{Preface} 
@@ -313,7 +313,10 @@ The \LaTeX\ source is available at\\
 \url{https://github.com/mattlorig/intro-probability-stochastic-processes}.\\
 Readers are encouraged to report errors, suggest improvements and contribute new material by opening an issue or a pull request; see the file \texttt{CONTRIBUTING.md} in the repository.
 \blu{Text in blue} marks material that is still under development.
-Information on how to cite these notes (including their arXiv identifier and DOI) can be found in the repository.
+If you use these notes, please cite them as:
+\begin{quote}
+M.~Lorig, \emph{An Introduction to Applied Probability and Stochastic Processes: Open Lecture Notes}, arXiv:2611.10948 (2026), \url{https://doi.org/10.5281/zenodo.24043489}.
+\end{quote}
 
 \subsection*{Acknowledgments}
 The author of these notes wishes to express his sincere thanks to Weston Barger and Yu-Chen Cheng for checking and writing solutions to the exercises as well as making corrections and improvements to the text, and to the contributors listed on GitHub.
@@ -2124,7 +2127,7 @@ Since we have written the transition kernel explicitly, we have established that
 For any $f:\Rb \to \Rb$ we have
 \begin{align}
 \Eb[ f(S_{n+m}) | \Fc_m ]
-	&=	\sum_{k=0}^n f(S_m u^k d^{n-k}) \cdot \binom{n}{k} p^k q^{n-q}
+	&=	\sum_{k=0}^n f(S_m u^k d^{n-k}) \cdot \binom{n}{k} p^k q^{n-k}
 	=:	g(S_m) . \label{eq:Ef=g}
 \end{align}
 Thus, we have found $g$.
