@@ -47,6 +47,7 @@ Corrections, improvements and new material are welcome. Please open an [issue](h
 Please cite these notes using the Zenodo DOI, which always resolves to the latest version:
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24043489.svg)](https://doi.org/10.5281/zenodo.24043489)
+[![arXiv](https://img.shields.io/badge/arXiv-2611.10948-b31b1b.svg)](https://arxiv.org/abs/2611.10948)
 
     @misc{lorig-probability-notes,
       author       = {Lorig, Matthew},
@@ -57,8 +58,7 @@ Please cite these notes using the Zenodo DOI, which always resolves to the lates
       url          = {https://doi.org/10.5281/zenodo.24043489}
     }
 
-An arXiv version will be added here once it is announced.
-
+The notes are also available on arXiv: [arXiv:2611.10948](https://arxiv.org/abs/2611.10948) ([doi:10.48550/arXiv.2611.10948](https://doi.org/10.48550/arXiv.2611.10948)).
 ## License
 
 These notes are licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0). You may share and adapt the material for any purpose, provided you give appropriate credit and distribute your contributions under the same license.
